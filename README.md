@@ -2,6 +2,9 @@
 
 This is a simple Alfred workflow for the [Shottr](https://shottr.cc) screenshot app for macOS. It allows you to utilize the Shottr URL Schema to take screenshots without using the Shottr app directly.
 
+> [!IMPORTANT]  
+> It is essential to have the Shottr app v1.8 or later installed on your Mac to use this workflow.
+
 ## Installation
 
 1. Download the latest release from the [releases](https://github.com/dragstor/shottr-alfred-workflow/releases) page
