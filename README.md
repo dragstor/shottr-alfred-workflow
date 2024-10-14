@@ -20,8 +20,8 @@ The available keywords ones are:
 | sstr     | `shottr://show`                     |                                            |
 | ssfs     | `shottr://grab/fullscreen`          |                                            |
 | ssa      | `shottr://grab/area`                |                                            |
-| ssw      | `shottr://grab/repeat`              |                                            |
-| ssrg     | `shottr://grab/window`              |                                            |
+| ssw      | `shottr://grab/window`              |                                            |
+| ssrg     | `shottr://grab/repeat`              |                                            |
 | sss      | `shottr://grab/scrolling`           |                                            |
 | sssr     | `shottr://grab/scrolling/reverse`   |                                            |
 | ssds     | `shottr://grab/delayed`             |  add a number [1..10]  for custom delay, e.g. `ssds 7`    |
@@ -54,5 +54,5 @@ If you'd like to contribute, please fork the repository and make changes as you'
 ## Acknowledgments
 
 - A huge thanks to Max from Shottr for the excellent app, and for sharing the URL Schema and the app icons 🙌🏻
-
+- Thank you all for submitting bug reports! 🥰
   
